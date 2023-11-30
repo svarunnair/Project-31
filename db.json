@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "producut": "Jacket",
+      "category": "women",
+      "price": " 4,990.00",
+      "name": "FAUX LEATHER BIKER JACKET",
+      "image": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/3046/060/800/14/w/563/3046060800_1_1_1.jpg?ts=1693836517966"
+      ],
+      "id": 1
+    },
+    {
+      "product": "Jacket",
+      "category": "women",
+      "price": "7,590.00",
+      "name": "FORD MUSTANG© BOMBER JACKET",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/0264/822/065/4/w/563/0264822065_1_1_1.jpg?ts=1700653278132"
+      ],
+      "id": 2
+    },
+    {
+      "product": "Jacket",
+      "category": "women",
+      "price": "7,590.00",
+      "name": "DOUBLE-FACED SHORT JACKET",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/8073/235/716/20/w/563/8073235716_1_1_1.jpg?ts=1700053979460"
+      ],
+      "id": 3
+    },
+    {
+      "product": "Jacket",
+      "category": "women",
+      "price": "8,590.00",
+      "name": "ZW COLLECTION CONTRAST BOMBER JACKET WITH BUCKLES",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/2969/282/800/12/w/563/2969282800_1_1_1.jpg?ts=1694427862833"
+      ],
+      "id": 4
+    },
+    {
+      "product": "T-shirts",
+      "category": "women",
+      "price": "990.00",
+      "name": "CROPPED POLYAMIDE T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/3641/844/641/2/w/563/3641844641_1_1_1.jpg?ts=1696342627538"
+      ],
+      "id": 5
+    },
+    {
+      "product": "T-shirts",
+      "category": "women",
+      "price": "2,590.00",
+      "name": "FORD MUSTANG© CROPPED T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/0264/823/250/3/w/563/0264823250_1_1_1.jpg?ts=1700645812835"
+      ],
+      "id": 6
+    },
+    {
+      "product": "Jewellery",
+      "category": "women",
+      "price": "1,990.00",
+      "name": "PACK OF RIGID BRACELETS",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2024/V/0/1/p/4736/002/303/2/w/563/4736002303_1_1_1.jpg?ts=1700815205514"
+      ],
+      "id": 7
+    },
+    {
+      "product": "Jewellery",
+      "category": "women",
+      "price": "2,990.00",
+      "name": "DOUBLE-STRAND NECKLACE WITH FAUX PEARLS AND RHINESTONES",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/4548/302/808/2/w/563/4548302808_1_1_1.jpg?ts=1699623341764"
+      ],
+      "id": 8
+    },
+    {
+      "product": "Pants",
+      "category": "women",
+      "price": "2,590.00",
+      "name": "HIGH-WAIST TROUSERS",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/I/0/1/p/2162/888/800/21/w/563/2162888800_1_1_1.jpg?ts=1697041287157"
+      ],
+      "id": 9
+    },
+    {
+      "product": "Pants",
+      "category": "women",
+      "price": "2,990.00",
+      "name": "HIGH-WAIST CULOTTE TROUSERS",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_6_1_1.jpg?ts=1675249897365",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_2_3_1.jpg?ts=1678899122417",
+        "https://static.zara.net/photos///2023/V/0/1/p/2286/642/800/2/w/563/2286642800_1_1_1.jpg?ts=1678899120861"
+      ],
+      "id": 10
+    },
+    {
+      "product": "Shirt",
+      "category": "men",
+      "price": "4,990.00",
+      "name": "VELVET SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/2/p/8281/351/800/2/w/563/8281351800_1_1_1.jpg?ts=1697787915939",
+        "https://static.zara.net/photos///2023/I/0/2/p/8281/351/800/2/w/563/8281351800_2_4_1.jpg?ts=1697787916873",
+        "https://static.zara.net/photos///2023/I/0/2/p/8281/351/800/2/w/563/8281351800_6_1_1.jpg?ts=1697802050715"
+      ],
+      "id": 11
+    },
+    {
+      "product": "Shirt",
+      "category": "men",
+      "price": "3,290.00",
+      "name": "ELASTIC SHIRT WITH STRIPED PRINT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/2/p/7545/538/104/2/w/563/7545538104_1_1_1.jpg?ts=1694768163744",
+        "https://static.zara.net/photos///2023/I/0/2/p/7545/538/104/2/w/563/7545538104_2_2_1.jpg?ts=1694768164069",
+        "https://static.zara.net/photos///2023/I/0/2/p/7545/538/104/2/w/563/7545538104_2_3_1.jpg?ts=1694768163365"
+      ],
+      "id": 12
+    },
+    {
+      "product": "T-shirts",
+      "category": "men",
+      "price": "1,590.00",
+      "name": "BASIC MEDIUM WEIGHT T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/1/p/1887/400/800/2/w/563/1887400800_1_1_1.jpg?ts=1675333333429",
+        "https://static.zara.net/photos///2023/V/0/1/p/1887/400/800/2/w/563/1887400800_2_1_1.jpg?ts=1675333334062",
+        "https://static.zara.net/photos///2023/V/0/1/p/1887/400/800/2/w/563/1887400800_2_2_1.jpg?ts=1675333333823"
+      ],
+      "id": 13
+    },
+    {
+      "product": "T-shirts",
+      "category": "men",
+      "price": "2,590.00",
+      "name": "ABSTRACT PRINT SATIN SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/2/p/1501/305/250/2/w/563/1501305250_1_1_1.jpg?ts=1693489792472",
+        "https://static.zara.net/photos///2023/I/0/2/p/1501/305/250/2/w/563/1501305250_2_2_1.jpg?ts=1693489792206",
+        "https://static.zara.net/photos///2023/I/0/2/p/1501/305/250/2/w/563/1501305250_2_4_1.jpg?ts=1693489792521"
+      ],
+      "id": 14
+    },
+    {
+      "product": "T-shirts",
+      "category": "kids",
+      "gender": "male",
+      "price": "990.00",
+      "name": "RON MAN © MARVEL T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/3/p/0377/589/600/2/w/563/0377589600_1_1_1.jpg?ts=1685015260535",
+        "https://static.zara.net/photos///2023/I/0/3/p/0377/589/600/2/w/563/0377589600_6_2_1.jpg?ts=1688641884072",
+        "https://static.zara.net/photos///2023/I/0/3/p/0377/589/600/2/w/563/0377589600_6_3_1.jpg?ts=1688641884694"
+      ],
+      "id": 15
+    },
+    {
+      "product": "T-shirts",
+      "category": "kids",
+      "gender": "male",
+      "price": "1,190.00",
+      "name": "SPIDER MAN © MARVEL T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/3/p/7878/730/800/2/w/563/7878730800_6_1_1.jpg?ts=1682413188108",
+        "https://static.zara.net/photos///2023/I/0/3/p/7878/730/800/2/w/563/7878730800_6_2_1.jpg?ts=1682413184868",
+        "https://static.zara.net/photos///2023/I/0/3/p/7878/730/800/302/w/563/7878730800_1_1_1.jpg?ts=1684751281883"
+      ],
+      "id": 16
+    },
+    {
+      "product": "T-shirts",
+      "category": "kids",
+      "gender": "female",
+      "price": "2,990.00",
+      "name": "SHORT SLEEVE STEVEN MEISEL T-SHIRT",
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/1/p/6085/250/800/132/w/563/6085250800_2_4_1.jpg?ts=1694607354194",
+        "https://static.zara.net/photos///2023/I/0/1/p/6085/250/800/132/w/563/6085250800_2_7_1.jpg?ts=1694607354648",
+        "https://static.zara.net/photos///2023/I/0/1/p/6085/250/800/132/w/563/6085250800_6_1_1.jpg?ts=1694607332854"
+      ],
+      "id": 17
+    },
+    {
+      "product": "perfume",
+      "category": "men",
+      "price": "1,890.00",
+      "name": "SEOUL + SEOUL WINTER EDT 100ML",
+      "images": [
+        "https://static.zara.net/photos///2023/I/2/1/p/0210/053/999/2/w/563/0210053999_6_1_1.jpg?ts=1694613006043",
+        "https://static.zara.net/photos///2023/I/2/1/p/0210/053/999/2/w/563/0210053999_6_2_1.jpg?ts=1694613006302",
+        "https://static.zara.net/photos///2023/I/2/1/p/0210/053/999/2/w/563/0210053999_6_2_1.jpg?ts=1694613006302"
+      ],
+      "id": 18
+    },
+    {
+      "product": "perfume",
+      "category": "women",
+      "price": "990.00",
+      "name": "WOMAN GOLD REFILL 180 ML / 6.09 OZ",
+      "images": [
+        "https://static.zara.net/photos///2023/V/2/1/p/0120/912/999/2/w/563/0120912999_6_1_1.jpg?ts=1679046899971",
+        "https://static.zara.net/photos///2023/V/2/1/p/0120/912/999/2/w/563/0120912999_6_2_1.jpg?ts=1678883843215",
+        "https://static.zara.net/photos///2023/I/2/1/p/0120/912/999/2/w/563/0120912999_6_3_1.jpg?ts=1695210966699"
+      ],
+      "id": 19
+    },
+    {
+      "product": "perfume",
+      "category": "men",
+      "price": "990.00",
+      "name": "GARDENIA REFILL 180 ML / 6.09 OZ",
+      "images": [
+        "https://static.zara.net/photos///2023/V/2/1/p/0120/908/999/2/w/563/0120908999_6_1_1.jpg?ts=1679046895123",
+        "https://static.zara.net/photos///2023/I/2/1/p/0120/908/999/2/w/563/0120908999_6_3_1.jpg?ts=1692874127029",
+        "https://static.zara.net/photos///2023/V/2/1/p/0120/908/999/2/w/563/0120908999_6_2_1.jpg?ts=1678809206311"
+      ],
+      "id": 20
+    }
+  ],
+  "auth": [
+    {
+      "email": "varun@123",
+      "password": "1234",
+      "id": 1
+    }
+  ]
+}
